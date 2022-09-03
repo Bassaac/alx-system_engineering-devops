@@ -1,1 +1,2 @@
 help
+new user betty
