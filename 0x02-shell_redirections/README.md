@@ -3,3 +3,4 @@ confused smiley README
 2-hellofile
 hell of file
 new readme for redirection4
+print last 10 lines of etc/passwd
