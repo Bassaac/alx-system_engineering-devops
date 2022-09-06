@@ -21,3 +21,4 @@ search and delete/replace
 print the reverse of a string
 long files
 find all empty files
+acrostics
