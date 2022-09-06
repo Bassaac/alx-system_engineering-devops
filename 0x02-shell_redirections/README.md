@@ -13,3 +13,4 @@ script for printing first ten lines
 script for printing single docs even in dup
 script for finding and printing foot files from etc
 new readme for printing and counting printed files
+new readme for printing root files and 3 lines after them
