@@ -15,3 +15,4 @@ script for finding and printing foot files from etc
 new readme for printing and counting printed files
 new readme for printing root files and 3 lines after them
 new readme for printing and ignoring some ffiles
+new readme for printing files that beging with let. a-z
