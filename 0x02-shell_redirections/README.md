@@ -9,3 +9,4 @@ new readme for 6th task
 Getting tougher
 Just another readme for another file
 script for deleting .js files
+script for printing first ten lines
