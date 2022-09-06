@@ -11,3 +11,4 @@ Just another readme for another file
 script for deleting .js files
 script for printing first ten lines
 script for printing single docs even in dup
+script for finding and printing foot files from etc
