@@ -19,3 +19,4 @@ new readme for printing files that beging with let. a-z
 replace some texts with
 search and delete/replace
 print the reverse of a string
+long files
