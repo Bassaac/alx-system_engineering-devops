@@ -10,3 +10,4 @@ Getting tougher
 Just another readme for another file
 script for deleting .js files
 script for printing first ten lines
+script for printing single docs even in dup
