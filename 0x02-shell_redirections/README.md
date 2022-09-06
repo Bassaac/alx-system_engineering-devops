@@ -8,3 +8,4 @@ print first 10 lines
 new readme for 6th task
 Getting tougher
 Just another readme for another file
+script for deleting .js files
