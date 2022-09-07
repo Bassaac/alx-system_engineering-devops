@@ -12,3 +12,4 @@ division
 Power
 binary
 decimal things
+new
