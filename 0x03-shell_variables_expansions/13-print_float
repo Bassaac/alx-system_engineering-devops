@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "236 * 1.00" | bc
+echo "236 * 2.23" | bc
