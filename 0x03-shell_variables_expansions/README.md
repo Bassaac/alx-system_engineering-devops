@@ -6,3 +6,4 @@ print env var
 list variables
 create new local var
 create global var
+addition
