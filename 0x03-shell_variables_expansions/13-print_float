@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM.17
+echo "236 * 1.00" | bc
