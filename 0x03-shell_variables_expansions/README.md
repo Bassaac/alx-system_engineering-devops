@@ -9,3 +9,4 @@ create global var
 addition
 count directory
 division
+Power
