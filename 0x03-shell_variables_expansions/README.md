@@ -13,3 +13,4 @@ Power
 binary
 decimal things
 new
+new readme
