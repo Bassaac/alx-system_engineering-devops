@@ -10,3 +10,4 @@ addition
 count directory
 division
 Power
+binary
