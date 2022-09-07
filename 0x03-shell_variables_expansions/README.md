@@ -7,3 +7,4 @@ list variables
 create new local var
 create global var
 addition
+count directory
