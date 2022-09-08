@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "236 * 2.23" | bc
+printf "%0.2f\n" $NUM
